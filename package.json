@@ -1,0 +1,20 @@
+{
+  "name": "nodemailer-email-confirmation",
+  "version": "1.0.0",
+  "description": "Email confirmation with nodemailer by sending a 6-digit code to the email",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node-email-confirmation",
+    "nodemailer-email-confirmation"
+  ],
+  "author": "Qudusayo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
